@@ -20,8 +20,7 @@
 
     <modules>
         <module>core</module>
-        <module>web</module>
-    </modules>
+        <module>web</module    </modules>
 
 
     <build>
@@ -90,4 +89,4 @@
         </plugins>
     </reporting>
 </project>
-</project>
+project>
